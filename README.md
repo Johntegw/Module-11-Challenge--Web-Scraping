@@ -113,8 +113,4 @@ Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather 
 
 To submit your Challenge assignment in Canvas, click Submit, then provide the URL of your Mission-to-Mars GitHub repository for grading. Comments are disabled for graded submissions in Bootcamp Spot. If you have questions about your feedback, please notify your instructional staff or Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Re-Submit Assignment button to upload new links. You can resubmit up to three times, for a total of four submissions.
 
-IMPORTANT
-When you receive feedback on your Challenge, make any suggested updates or adjustments to your work. Then add this week’s Challenge to your professional portfolio.
 
-NOTE
-You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Submit, and then indicate you are skipping by typing “I choose to skip this assignment” in the text box.
